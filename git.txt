@@ -1,0 +1,31 @@
+Git Hub:
+
+ Repository: Its storage place to keep your files &folders. Files can be anything.
+
+ 	     Repository contains branches.
+
+
+Remote Repsoitory
+
+ACCOUNT: Praveen-Kalyan_1992
+
+PRAVEE's Repo name : FGT_SPA 
+
+  main:
+     src
+     main.tsx
+     package.json
+
+
+
+I have shared your repo URL. --> I have added you as my repo collobarotor.
+
+
+
+
+Remote Repsoitory
+
+ACOUNT: Meks-git
+
+
+  Git Clone -  Using a URL to clone anyone's repository.
