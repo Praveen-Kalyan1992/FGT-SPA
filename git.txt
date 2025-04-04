@@ -29,3 +29,13 @@ ACOUNT: Meks-git
 
 
   Git Clone -  Using a URL to clone anyone's repository.
+   Git Clone -  Using a URL to clone anyone's repository.
+
+
+  Git pull command is used to get the changes from remote repository to local repository.
+  Git push command is used to push the local repository changes into remote repository.
+  Git push steps:
+  Stage your changes.
+  Commit your changes.
+  &
+  Push your changes.
